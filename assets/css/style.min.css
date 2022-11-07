@@ -484,7 +484,7 @@ p {
 
 body {
   background-position: top center;
-  background-image: url(../images/bg.png);
+  background-color: #000;
   background-repeat: no-repeat;
   font-size: 15px;
   color: white;
